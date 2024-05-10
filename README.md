@@ -1,1 +1,1 @@
-# Cat-App
+# CatApp
